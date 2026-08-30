@@ -14,9 +14,23 @@
 
 </div>
 
-## 样张位
+## 扩展样张
 
-当前只收到原始提示词，尚未提供可核验的原始 X 样张或出处，因此 `sample-01`–`04` 保留给未来的原始样张，`sample-05`–`12` 保留给经过逐张风格验收的扩展样张。项目不会用生成图冒充原始样张。
+**16:9 横版左右样张**
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+**3:4 竖版上下样张**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` 继续保留给未来可核验的原始发布样张；以上为依据 Panel 069 原始提示词生成的扩展样张。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题
