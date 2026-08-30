@@ -13,3 +13,11 @@
 - Every future sample must record its exact source mapping, dimensions, delivery mode, text language, and style review status here before entering the public README.
 
 Style identity: XXD Panel 069. The canonical authority is `references/original-prompt/zh-CN.md`.
+
+## Verified generated samples
+
+Panel 069 samples are generated independently from this Panel canonical prompt.
+
+- sample-05–sample-08: 16:9 horizontal left-right (`1672×941`; reality view left, transformed design right).
+- sample-09–sample-12: 3:4 vertical top-bottom will be added after the vertical batch completes.
+- English intelligent copy requested; no workflow labels or cross-Panel images.
