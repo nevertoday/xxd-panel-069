@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 069
+# 🦁 XXD Panel 069｜Vivid Smear Window
 
 ### Recompose photographs through broad painted windows, vivid colour, and fine hand-drawn contours
 

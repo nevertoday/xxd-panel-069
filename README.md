@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 069
+# 🦁 XXD Panel 069｜鲜彩涂抹窗
 
 ### 用粗笔绘画视窗、鲜活色彩与纤细描边重新组织照片
 

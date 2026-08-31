@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 069
+# 🦁 XXD Panel 069｜선명한 붓칠 창
 
 ### 굵은 붓의 회화 창, 생생한 색, 섬세한 윤곽으로 사진을 재구성합니다
 
