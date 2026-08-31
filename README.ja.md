@@ -14,9 +14,23 @@
 
 </div>
 
-## 作例スロット
+## 作例展示
 
-現時点で提供されているのは原文プロンプトだけです。検証可能な X の原作例や出典はまだないため、`sample-01`–`04` は原作例、`sample-05`–`12` は個別審査済みの追加作例用に予約しています。生成画像を原作例として扱うことはありません。
+**16:9 横長・左右構成の作例**
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+**3:4 縦長・上下構成の作例**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` は、検証可能なオリジナル公開作例のために確保しています。上の8点は、16:9の横長・左右構成4点と、3:4の縦長・上下構成4点です。すべて Panel 069 が自身の原文プロンプトに基づいて個別に生成したもので、別番号の作品は流用していません。作例のコピーは英語で自動生成しています。
 
 <!-- xxd-human-intro:start -->
 ## このスタイルが解決すること

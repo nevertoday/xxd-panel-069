@@ -14,7 +14,7 @@
 
 </div>
 
-## 扩展样张
+## 样张展示
 
 **16:9 横版左右样张**
 
@@ -30,7 +30,7 @@
 | ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
 | ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
 
-`sample-01`–`sample-04` 继续保留给未来可核验的原始发布样张；以上为依据 Panel 069 原始提示词生成的扩展样张。
+`sample-01`–`sample-04` 保留给未来可核验的原始发布样张。以上八张包括四张 16:9 横版左右样张和四张 3:4 竖版上下样张，均由 Panel 069 依据自己的原始提示词独立生成，不借用其他编号作品。样张使用英文智能配字。
 
 <!-- xxd-human-intro:start -->
 ## 适用场景与解决的问题

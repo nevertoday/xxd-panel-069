@@ -1,23 +1,17 @@
 # XXD Panel 069 samples
 
-## Reserved original sample slots
+This directory contains the reviewed extension samples displayed by all five localized project READMEs.
 
-- `sample-01`–`sample-04` are reserved for verifiable original works and their source post.
-- No original X sample or provenance URL has been supplied yet.
-- Generated work must never be presented as an original sample.
+## Original release slots
 
-## Reserved extension sample slots
+- `sample-01`–`sample-04` remain reserved for verifiable original release works and their source post.
+- Generated extensions are identified separately and are never presented as original release samples.
 
-- `sample-05`–`sample-08` are reserved for four individually reviewed 16:9 left-right works.
-- `sample-09`–`sample-12` are reserved for four individually reviewed 3:4 top-bottom works.
-- Every future sample must record its exact source mapping, dimensions, delivery mode, text language, and style review status here before entering the public README.
+## Reviewed extension samples
 
-Style identity: XXD Panel 069. The canonical authority is `references/original-prompt/zh-CN.md`.
+- `sample-05`–`sample-08`: four 16:9 landscape left–right works (1672×941 PNG); the reality view is on the left and Panel 069's transformed design is on the right.
+- `sample-09`–`sample-12`: four approximately 3:4 portrait top–bottom works (nominally 1086×1448 PNG); the reality view is above and Panel 069's transformed design is below.
+- Each work was generated independently from Panel 069's canonical prompt, uses intelligent English copy, and was reviewed for the correct comparison direction.
+- No artwork from another numbered Panel, broken placeholder, or banner is accepted as a sample.
 
-## Verified generated samples
-
-Panel 069 samples are generated independently from this Panel canonical prompt.
-
-- sample-05–sample-08: 16:9 horizontal left-right (1672×941; reality view left, transformed design right).
-- sample-09–sample-12: 3:4 vertical top-bottom (1086×1448; reality view above, transformed design below).
-- English intelligent copy requested; no workflow labels or cross-Panel images.
+Canonical authority: `../../references/original-prompt/zh-CN.md`.

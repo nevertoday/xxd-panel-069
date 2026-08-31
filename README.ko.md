@@ -14,9 +14,23 @@
 
 </div>
 
-## 예시 자리
+## 예시 갤러리
 
-현재 제공된 것은 원본 프롬프트뿐이며 검증 가능한 X 원작 예시나 출처는 아직 없습니다. `sample-01`–`04`는 원작 예시용, `sample-05`–`12`는 개별 검수를 거친 확장 예시용으로 남겨 둡니다. 생성 이미지를 원작 예시로 가장하지 않습니다.
+**16:9 가로형 좌우 구성 예시**
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+**3:4 세로형 상하 구성 예시**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04`는 검증 가능한 원본 공개 예시를 위해 남겨 둡니다. 위 여덟 작품은 16:9 가로형 좌우 구성 네 장과 3:4 세로형 상하 구성 네 장입니다. 모두 Panel 069이 자체 원본 프롬프트에 따라 독립적으로 생성했으며 다른 번호의 작품을 재사용하지 않았습니다. 예시 문구는 영어로 자동 생성했습니다.
 
 <!-- xxd-human-intro:start -->
 ## 이 스타일이 해결하는 문제

@@ -14,9 +14,23 @@
 
 </div>
 
-## Sample slots
+## Sample gallery
 
-Only the original prompt has been supplied so far. No verifiable original X samples or source post are available, so `sample-01`–`04` remain reserved for original works and `sample-05`–`12` for future, individually reviewed extensions. Generated images are never presented as original samples.
+**16:9 landscape left–right samples**
+
+| sample-05 | sample-06 |
+|---|---|
+| ![sample-05](assets/examples/sample-05.png) | ![sample-06](assets/examples/sample-06.png) |
+| ![sample-07](assets/examples/sample-07.png) | ![sample-08](assets/examples/sample-08.png) |
+
+**3:4 portrait top–bottom samples**
+
+| sample-09 | sample-10 |
+|---|---|
+| ![sample-09](assets/examples/sample-09.png) | ![sample-10](assets/examples/sample-10.png) |
+| ![sample-11](assets/examples/sample-11.png) | ![sample-12](assets/examples/sample-12.png) |
+
+`sample-01`–`sample-04` remain reserved for verifiable original release samples. The eight works above comprise four 16:9 landscape left–right samples and four 3:4 portrait top–bottom samples. Every work was generated independently by Panel 069 from its own original brief; no artwork from another numbered Panel is reused. The samples use intelligent English copy.
 
 <!-- xxd-human-intro:start -->
 ## What it solves
