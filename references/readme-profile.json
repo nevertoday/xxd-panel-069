@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 069｜Vivid Smear Window: places the key subject and relationship of a photo inside an irregular painted window made of a few bold, wide flat-brush strokes with visible bristle marks, dry-brush breaks, ragged edges and bare paper showing through, then draws the subject with fine, slightly searching hand-drawn contours over bright watercolour or gouache colour with a few thicker oil-like dabs, letting spires, leaves, limbs or other key parts break out past the brushed edge; colours are the brightest, most alive hues in the photo lifted into clear sky blue, lake teal, fresh green, warm yellow, coral and peach on a large warm-white ground, with a few words in fine, loose editorial type. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-069 or asks for broad brush-stroke window, vivid painterly editorial or bright gouache-and-line illustration from a photo.",
+  "short_description": "鲜彩涂抹窗：大号粗笔刷出不规则绘画视窗，纤细描边和鲜活色彩让主体从笔触里越界而出",
+  "zh-CN": {
+    "name": "鲜彩涂抹窗",
+    "tagline": "用几笔宽大的粗刷刷出一扇画窗，让照片里的主体带着鲜亮色彩从笔触里走出来。",
+    "look": "画面中间是几笔宽排刷直接刷出的不规则色块，能看清刷痕、笔毛纹、干刷断裂和露白，像一扇没关严的窗。主体用纤细、略带寻找感的手绘线勾出，里面是明亮的水彩或水粉色，少数焦点处有厚一点的油画笔触；尖顶、枝叶、手臂等局部会伸出刷痕边界。颜色取照片里最亮最鲜活的那几种，提成天空蓝、湖水青、嫩绿、暖黄、珊瑚橙、桃粉，周围是大片暖白。几行纤细、松弛的编辑字体沿刷痕方向或在留白里错落排开。",
+    "traits": [
+      "大号刷痕",
+      "不规则视窗",
+      "鲜活取色",
+      "纤细描边",
+      "自然越界",
+      "暖白留白"
+    ],
+    "good": [
+      "轮廓有突出部分的主体：教堂尖顶、一棵树、举着手的人、长颈鹿",
+      "晴天下颜色鲜亮的照片：海边小屋、花市、蓝天下的帆船",
+      "单一主体加一点环境的画面：骑车的人和一段路、窗台上的盆栽"
+    ],
+    "poor": [
+      "阴天、夜景或色调灰暗的照片，提亮后容易失去原本情绪",
+      "主体很多、彼此交叠的大场景，放进一扇画窗会很挤",
+      "想要柔软水彩晕染框、规整画框、粗黑轮廓或写实风景画的需求"
+    ]
+  },
+  "en": {
+    "name": "Vivid Smear Window",
+    "tagline": "Brushes a bold painted window with a few wide strokes and lets your subject step out of it in bright colour.",
+    "look": "At the centre is an irregular block made of a few wide flat-brush strokes, with clear brush marks, bristle texture, dry-brush breaks and bare paper showing, like a window left ajar. The subject is outlined in fine, slightly searching hand-drawn lines and filled with bright watercolour or gouache, with a few thicker oil-like dabs at focal points; spires, leaves, arms and similar parts reach past the brushed edge. Colours are the brightest, liveliest ones in the photo, lifted into sky blue, lake teal, fresh green, warm yellow, coral and peach, surrounded by wide warm white. A few lines of fine, loose editorial type step along the stroke direction or sit in the open space.",
+    "traits": [
+      "Broad brush marks",
+      "Irregular window",
+      "Lively colour",
+      "Fine contour",
+      "Natural overflow",
+      "Warm-white space"
+    ],
+    "good": [
+      "Subjects with parts that stick out: a church spire, a tree, a person with a raised arm, a giraffe",
+      "Bright, sunny photos with vivid colour: a beach hut, a flower market, a sailboat under blue sky",
+      "One subject with a little setting: a cyclist on a stretch of road, a potted plant on a windowsill"
+    ],
+    "poor": [
+      "Overcast, night-time or muted photos, which lose their original mood once brightened",
+      "Wide scenes with many overlapping subjects, which feel cramped inside one painted window",
+      "Requests for a soft watercolour blob frame, a neat geometric frame, thick black outlines or a realistic landscape painting"
+    ]
+  },
+  "ja": {
+    "name": "鮮やか塗りの窓",
+    "tagline": "幅広の筆数本で描いた絵の窓から、写真の主役が鮮やかな色をまとって抜け出します。",
+    "look": "画面の中心には幅広の平筆で直接塗った数本のストロークがつくる不規則な色面があり、刷毛目、筆の毛の跡、かすれ、紙の白がはっきり見えて、少し開いた窓のようです。主役は細く、少し探るような手描きの線で輪郭をとり、中は明るい水彩や不透明水彩で塗り、焦点の数か所だけ油絵のような厚い筆致が入ります。尖塔、枝葉、腕などは筆跡の縁から外へはみ出します。色は写真でいちばん明るく生き生きした色を、空色、湖の青緑、若草色、暖かい黄、コーラル、ピーチへ引き上げ、まわりは広い温かな白です。細くゆるい編集書体の数行が、筆の流れに沿ったり余白に置かれたりします。",
+    "traits": [
+      "大きな刷毛目",
+      "不規則な窓",
+      "生き生きした色",
+      "細い輪郭線",
+      "自然なはみ出し",
+      "温かな白の余白"
+    ],
+    "good": [
+      "輪郭に突き出た部分がある主役：教会の尖塔、一本の木、手を挙げた人、キリン",
+      "晴れた日の色鮮やかな写真：海辺の小屋、花市場、青空の下の帆船",
+      "一つの主役と少しの環境：道を走る自転車の人、窓辺の鉢植え"
+    ],
+    "poor": [
+      "曇りや夜景、色の沈んだ写真（明るくすると元の雰囲気が失われやすい）",
+      "主役が多く重なり合う広い場面（一つの窓に入れると窮屈になります）",
+      "柔らかな水彩のにじみ枠、整った額縁、太い黒の輪郭、写実的な風景画を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "선명한 붓칠 창",
+    "tagline": "굵은 붓 몇 번으로 그림 창을 칠하고, 사진 속 주인공이 선명한 색을 입고 그 밖으로 걸어 나오게 합니다.",
+    "look": "화면 가운데에는 넓은 평붓으로 직접 칠한 몇 번의 붓질이 만든 불규칙한 색면이 있습니다. 붓자국, 붓털 결, 마른 붓의 끊김, 드러난 종이 흰빛이 또렷해서 살짝 열린 창처럼 보입니다. 주인공은 가늘고 조금 더듬는 듯한 손그림 선으로 윤곽을 잡고, 안은 밝은 수채나 과슈로 칠하며 초점이 되는 몇 곳에만 유화처럼 두꺼운 붓질이 들어갑니다. 첨탑, 나뭇잎, 팔 같은 부분은 붓자국 경계 밖으로 뻗어 나옵니다. 색은 사진에서 가장 밝고 생기 있는 색을 하늘색, 호수 청록, 연두, 따뜻한 노랑, 코랄, 피치로 끌어올리고, 주변은 넓은 따뜻한 흰색입니다. 가늘고 느슨한 편집 서체 몇 줄이 붓 방향을 따라가거나 여백에 놓입니다.",
+    "traits": [
+      "큰 붓자국",
+      "불규칙한 창",
+      "생기 있는 색",
+      "가는 윤곽선",
+      "자연스러운 경계 넘기",
+      "따뜻한 흰 여백"
+    ],
+    "good": [
+      "윤곽에 튀어나온 부분이 있는 주인공: 교회 첨탑, 나무 한 그루, 손을 든 사람, 기린",
+      "맑은 날 색이 선명한 사진: 바닷가 오두막, 꽃시장, 파란 하늘 아래 돛단배",
+      "주인공 하나와 약간의 환경: 길을 달리는 자전거 탄 사람, 창턱의 화분"
+    ],
+    "poor": [
+      "흐린 날, 야경, 색이 가라앉은 사진(밝게 바꾸면 원래 분위기를 잃기 쉽습니다)",
+      "주인공이 많고 서로 겹치는 넓은 장면(창 하나에 넣으면 답답해집니다)",
+      "부드러운 수채 번짐 틀, 반듯한 액자, 굵은 검은 윤곽, 사실적인 풍경화를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "نافذة اللطخات الزاهية",
+    "tagline": "يرسم بضع ضربات فرشاة عريضة نافذةً ملوّنة، ويترك العنصر الرئيسي في صورتك يخرج منها بألوان مشرقة.",
+    "look": "في الوسط كتلة غير منتظمة صنعتها بضع ضربات بفرشاة مسطّحة عريضة، تظهر فيها آثار الفرشاة وملمس الشعيرات وانقطاعات الفرشاة الجافة وبياض الورق، كأنها نافذة غير مغلقة تماماً. يُرسم العنصر بخطوط يدوية رفيعة تتلمّس طريقها قليلاً، ويُملأ بألوان مائية أو غواش مشرقة، مع لمسات أسمك تشبه الألوان الزيتية في مواضع التركيز؛ وتمتد الأبراج والأغصان والأذرع وما شابهها خارج حافة الضربات. الألوان هي أكثر ألوان الصورة إشراقاً وحيوية، مرفوعة إلى أزرق السماء وفيروزي البحيرة والأخضر الطري والأصفر الدافئ والمرجاني والخوخي، وحولها مساحة واسعة من الأبيض الدافئ. وتتوزع بضعة أسطر بحرف تحريري رفيع ومرتخٍ على اتجاه الضربات أو في الفراغ.",
+    "traits": [
+      "ضربات فرشاة عريضة",
+      "نافذة غير منتظمة",
+      "ألوان حيّة",
+      "خط محيطي رفيع",
+      "تجاوز طبيعي للحدود",
+      "فراغ أبيض دافئ"
+    ],
+    "good": [
+      "عناصر لها أجزاء بارزة: برج كنيسة، شجرة، شخص يرفع ذراعه، زرافة",
+      "صور مشمسة بألوان زاهية: كوخ على الشاطئ، سوق زهور، مركب شراعي تحت سماء زرقاء",
+      "عنصر واحد مع قليل من المكان: راكب دراجة على مقطع طريق، نبتة في أصيص على حافة نافذة"
+    ],
+    "poor": [
+      "صور غائمة أو ليلية أو باهتة، تفقد أجواءها الأصلية عند رفع إشراقها",
+      "مشاهد واسعة بعناصر كثيرة متداخلة، تبدو مزدحمة داخل نافذة واحدة",
+      "طلب إطار من بقع ألوان مائية ناعمة أو إطار هندسي منتظم أو خطوط سوداء سميكة أو لوحة منظر طبيعي واقعية"
+    ]
+  }
+}
